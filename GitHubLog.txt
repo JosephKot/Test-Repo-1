@@ -1,0 +1,244 @@
+2016-06-01 20:30:51.7085|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
+GitHub.IO.ProcessException: 20:30:49.090708 git.c:351               trace: built-in: git 'clone' '--progress' '--recursive' '--' 'https://github.com/JosephKot/websites-php-AtomCMS.git' 'websites-php-AtomCMS'
+20:30:49.206791 run-command.c:336       trace: run_command: 'git-remote-https' 'origin' 'https://github.com/JosephKot/websites-php-AtomCMS.git'
+#########################################
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.1.1.4
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| Build version: 0936e53829c91d7e0a20b2f16ba96a8875f6ec9c
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***************************************
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| ***************************************
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| OS Version: Windows NT 6.3.9600.0 amd64
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.34209
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| Current culture: en-CA
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2016-06-01 20:22:30.6133|INFO|thread: 4|StartupLogging| Location: C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\GitHub.exe
+2016-06-01 20:22:30.6433|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-06-01 20:22:30.6433|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\GitHub.exe
+2016-06-01 20:22:30.7574|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:22:30.7625|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\NativeBinaries\x86;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\OpenSSH\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\PuTTY\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:22:30.7625|INFO|thread: 4|StartupLogging| =====================================================
+2016-06-01 20:22:30.7625|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2016-06-01 20:22:30.7625|INFO|thread: 4|StartupLogging| =====================================================
+2016-06-01 20:22:30.7625|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2016-06-01 20:22:30.7625|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0'
+2016-06-01 20:22:30.7625|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-06-01 20:22:30.7625|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-06-01 20:22:30.7824|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe'
+2016-06-01 20:22:30.7824|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\NativeBinaries\x86'
+2016-06-01 20:22:30.7975|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2016-06-01 20:22:30.7975|INFO|thread: 4|StartupLogging| PATH: C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\NativeBinaries\x86;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\OpenSSH\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\PuTTY\
+2016-06-01 20:22:30.8125|INFO|thread: 1|App|Checking whether application is network deployed: True
+2016-06-01 20:22:30.8125|INFO|thread: 1|App|Shortcut C:\Users\Joesph\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2016-06-01 20:22:30.8425|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2016-06-01 20:22:30.8425|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2016-06-01 20:22:30.9375|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\Images\App.ico'
+2016-06-01 20:22:32.8412|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-06-01 20:22:33.0813|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-06-01 20:22:33.0963|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 204 entries
+2016-06-01 20:22:33.2163|INFO|thread: 4|StartupSequence|Took 414ms to Update certificate bundle from system store
+2016-06-01 20:22:35.3664|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2016-06-01 20:22:35.3764|INFO|thread: 1|GitClient|Installing git lfs filters
+2016-06-01 20:22:35.4065|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:22:35.4065|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:22:35.4315|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\Joesph\AppData\Local\Temp\
+2016-06-01 20:22:35.4464|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-06-01 20:22:35.4464|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-06-01 20:22:37.8154|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-06-01 20:22:39.1568|WARN|thread: 8|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-06-01 20:22:40.6477|INFO|thread: 1|RepositoryHost|Log in from cache for login 'JosephKot' to host 'https://api.github.com/' SUCCEEDED
+2016-06-01 20:22:40.7427|INFO|thread:27|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'JosephKot' and user.email = 'alu71@hotmail.ca'
+2016-06-01 20:22:40.7677|INFO|thread:27|SshKeyHelper|Found existing SSH key pair
+2016-06-01 20:22:41.1564|INFO|thread: 5|SoftwareUpdateViewModel|Checking for new version
+2016-06-01 20:22:41.1864|INFO|thread:17|SshKeyHelper|ssh-agent already running
+2016-06-01 20:22:41.2114|INFO|thread:17|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2016-06-01 20:22:41.2214|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:22:41.2214|INFO|thread:17|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:22:41.2464|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin\ssh-add.exe', Args: '"C:\Users\Joesph\.ssh\github_rsa"', Working Directory: C:\Users\Joesph\AppData\Local\Temp\
+2016-06-01 20:22:41.2814|INFO|thread:15|DashboardViewModel|Selected repository ''
+2016-06-01 20:22:41.3590|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:628
+2016-06-01 20:22:41.3590|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:628 after waiting 0.0053529s
+2016-06-01 20:22:41.3590|INFO|thread:15|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:606
+2016-06-01 20:22:41.4390|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:628 after blocking 0.0749554s
+2016-06-01 20:22:41.4390|INFO|thread:18|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:606 after waiting 0.069691s
+2016-06-01 20:22:43.2503|INFO|thread:18|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:623
+2016-06-01 20:22:43.5726|INFO|thread:18|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:224
+2016-06-01 20:22:43.5776|INFO|thread:18|DashboardViewModel|Took 2243ms to Create RepositoryViewModel for location C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:22:43.5776|INFO|thread:18|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:606 after blocking 2.1365544s
+2016-06-01 20:22:43.5776|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:623 after waiting 0.3272174s
+2016-06-01 20:22:43.5776|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:224 after waiting 0.0090559s
+2016-06-01 20:22:43.5976|INFO|thread: 5|GitClient|Loading commits for repo: C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:22:43.7027|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:318
+2016-06-01 20:22:43.7027|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after waiting 0.0041572s
+2016-06-01 20:22:43.7027|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:623 after blocking 0.1310201s
+2016-06-01 20:22:43.7577|INFO|thread: 5|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\.
+2016-06-01 20:22:43.8214|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:224 after blocking 0.2407731s
+2016-06-01 20:22:43.9063|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after blocking 0.2014249s
+2016-06-01 20:22:44.2614|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:201
+2016-06-01 20:22:44.2614|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:201 after waiting 0.0002484s
+2016-06-01 20:22:44.2614|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2016-06-01 20:22:44.2614|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.0002959s
+2016-06-01 20:22:44.2813|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2016-06-01 20:22:44.2813|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0026497s
+2016-06-01 20:22:44.3078|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at NewPullRequestViewModel.cs:246
+2016-06-01 20:22:44.3278|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:290
+2016-06-01 20:22:44.3278|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 0.06683s
+2016-06-01 20:22:44.3278|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after waiting 0.0236029s
+2016-06-01 20:22:44.3278|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:290 after waiting 0.0036632s
+2016-06-01 20:22:44.3719|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:22:44.3719|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:22:44.3719|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:22:44.3719|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.091748s
+2016-06-01 20:22:44.3719|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:201 after blocking 0.1215049s
+2016-06-01 20:22:44.4369|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\.
+2016-06-01 20:22:44.4369|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after blocking 0.1075215s
+2016-06-01 20:22:44.5569|INFO|thread:28|ConcurrentRepositoryConnection|Took 150ms to git status
+2016-06-01 20:22:44.5569|INFO|thread:28|ConcurrentRepositoryConnection|Took 152ms to git status and parse output
+2016-06-01 20:22:44.6419|INFO|thread:28|NewCommitViewModel|Took 315ms to load files for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:22:44.6419|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:290 after blocking 0.3109786s
+2016-06-01 20:22:45.3817|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at GitClient.cs:611
+2016-06-01 20:22:45.3817|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at GitClient.cs:611 after waiting 7.18E-05s
+2016-06-01 20:22:45.3967|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at GitClient.cs:611 after blocking 0.0129946s
+2016-06-01 20:22:47.0081|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at BranchesViewModel.cs:356
+2016-06-01 20:22:47.0081|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at BranchesViewModel.cs:356 after waiting 0.0002967s
+2016-06-01 20:22:47.0231|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:318
+2016-06-01 20:22:47.0231|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after waiting 9.32E-05s
+2016-06-01 20:22:47.0431|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at BranchesViewModel.cs:356 after blocking 0.0358073s
+2016-06-01 20:22:47.1581|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after blocking 0.1351966s
+2016-06-01 20:22:47.2881|INFO|thread: 1|NewCommitViewModel|Took 2646ms to render file list for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:22:47.3152|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at RepositoryViewModel.cs:318
+2016-06-01 20:22:47.3152|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at RepositoryViewModel.cs:318 after waiting 7.52E-05s
+2016-06-01 20:22:47.3152|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at RepositoryViewModel.cs:318 after blocking 4.53E-05s
+2016-06-01 20:22:47.3152|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at RepositoryViewModel.cs:318
+2016-06-01 20:22:47.3152|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after waiting 0.0007885s
+2016-06-01 20:22:47.3432|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after blocking 0.0261308s
+2016-06-01 20:22:49.4093|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at GitClient.cs:404
+2016-06-01 20:22:49.4093|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at GitClient.cs:404 after waiting 0.000251s
+2016-06-01 20:22:49.4493|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:22:49.4493|INFO|thread:28|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:22:49.4493|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'diff-tree -r -z --no-renames --name-status 4b825dc642cb6eb9a060e54bf8d69288fbee4904 4e007610d905bd04d2779c5eed42baf4882da8d9 ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:22:49.7133|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at GitClient.cs:404 after blocking 0.3039938s
+2016-06-01 20:22:49.7253|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at ICommittedFileForklift.cs:95
+2016-06-01 20:22:49.7253|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at ICommittedFileForklift.cs:95 after waiting 0.0034417s
+2016-06-01 20:22:49.8813|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at ICommittedFileForklift.cs:95 after blocking 0.1528265s
+2016-06-01 20:22:51.8447|INFO|thread: 1|SelectedCommitViewModel|Took 2469ms to load files for commit 3ef12f6 in repo C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:23:08.1391|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:201
+2016-06-01 20:23:08.1391|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:201 after waiting 9.45E-05s
+2016-06-01 20:23:08.1391|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at RepositoryModel.cs:596
+2016-06-01 20:23:08.1391|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after waiting 5.51E-05s
+2016-06-01 20:23:08.1688|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at GitClient.cs:290
+2016-06-01 20:23:08.1688|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after blocking 0.0252139s
+2016-06-01 20:23:08.1688|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at GitClient.cs:290 after waiting 0.0002112s
+2016-06-01 20:23:08.1688|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:201 after blocking 0.0392268s
+2016-06-01 20:23:08.1958|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:23:08.1958|INFO|thread:28|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:23:08.1958|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:23:08.3579|INFO|thread:17|ConcurrentRepositoryConnection|Took 149ms to git status
+2016-06-01 20:23:08.3579|INFO|thread:17|ConcurrentRepositoryConnection|Took 150ms to git status and parse output
+2016-06-01 20:23:08.3579|INFO|thread:17|NewCommitViewModel|Took 198ms to load files for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:23:08.3579|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at GitClient.cs:290 after blocking 0.1981679s
+2016-06-01 20:23:08.3820|INFO|thread: 1|NewCommitViewModel|Took 15ms to render file list for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:23:08.3820|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at RepositoryViewModel.cs:318
+2016-06-01 20:23:08.3820|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at RepositoryViewModel.cs:318 after waiting 7.05E-05s
+2016-06-01 20:23:08.4030|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at RepositoryViewModel.cs:318 after blocking 0.0192584s
+2016-06-01 20:23:23.4117|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at GitClient.cs:201
+2016-06-01 20:23:23.4117|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at RepositoryModel.cs:596
+2016-06-01 20:23:23.4117|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at GitClient.cs:201 after waiting 0.0026651s
+2016-06-01 20:23:23.4217|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at RepositoryModel.cs:596 after waiting 0.0089443s
+2016-06-01 20:23:23.4489|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at GitClient.cs:290
+2016-06-01 20:23:23.4489|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at RepositoryModel.cs:596 after blocking 0.0227835s
+2016-06-01 20:23:23.4489|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at GitClient.cs:290 after waiting 0.0002612s
+2016-06-01 20:23:23.4489|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at GitClient.cs:201 after blocking 0.032091s
+2016-06-01 20:23:23.4729|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:23:23.4729|INFO|thread:17|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:23:23.4729|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:23:23.6217|INFO|thread:18|ConcurrentRepositoryConnection|Took 133ms to git status
+2016-06-01 20:23:23.6217|INFO|thread:18|ConcurrentRepositoryConnection|Took 133ms to git status and parse output
+2016-06-01 20:23:23.6217|INFO|thread:18|NewCommitViewModel|Took 179ms to load files for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:23:23.6217|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at GitClient.cs:290 after blocking 0.1791451s
+2016-06-01 20:23:23.6217|INFO|thread: 1|NewCommitViewModel|Took 3ms to render file list for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:23:23.6217|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at RepositoryViewModel.cs:318
+2016-06-01 20:23:23.6217|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at RepositoryViewModel.cs:318 after waiting 6.79E-05s
+2016-06-01 20:23:23.6498|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at RepositoryViewModel.cs:318 after blocking 0.0164513s
+2016-06-01 20:23:35.6753|INFO|thread: 1|PublishToHostViewModel|Creating on https://api.github.com/ in account 'JosephKot'
+2016-06-01 20:23:37.0793|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at GitClient.cs:623
+2016-06-01 20:23:37.0793|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at GitClient.cs:623 after waiting 0.0001047s
+2016-06-01 20:23:37.1013|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at GitClient.cs:611
+2016-06-01 20:23:37.1013|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at GitClient.cs:611 after waiting 7.31E-05s
+2016-06-01 20:23:37.1013|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at GitClient.cs:623 after blocking 0.0215677s
+2016-06-01 20:23:37.1143|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at GitClient.cs:611 after blocking 0.0125237s
+2016-06-01 20:23:37.1213|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 28 at GitClient.cs:618
+2016-06-01 20:23:37.1213|INFO|thread: 4|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 28 at GitClient.cs:618 after waiting 0.000103s
+2016-06-01 20:23:37.1734|INFO|thread:36|AsyncReaderWriterLock|Released exclusive scheduler for operation: 28 at GitClient.cs:618 after blocking 0.0520311s
+2016-06-01 20:23:37.1734|INFO|thread:36|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at GitClient.cs:720
+2016-06-01 20:23:37.1734|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at GitClient.cs:720 after waiting 6.84E-05s
+2016-06-01 20:23:37.1884|INFO|thread: 8|GitClient|Pushing JosephKot/AtomCMS-2
+2016-06-01 20:23:37.2344|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:23:37.2344|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:23:37.2344|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'push -u origin master ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:23:39.9481|WARN|thread:36|StandardUserErrors|Showing user error Failed to publish this branch.
+GitHub.IO.ProcessException: fatal: unable to access 'https://github.com/JosephKot/AtomCMS-2.git/': Couldn't resolve proxy 'proxyServer'
+2016-06-01 20:23:39.9851|INFO|thread:36|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at GitClient.cs:720 after blocking 2.8079598s
+2016-06-01 20:23:42.3508|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at GitClient.cs:720
+2016-06-01 20:23:42.3508|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at GitClient.cs:720 after waiting 7.74E-05s
+2016-06-01 20:23:42.3648|INFO|thread: 8|GitClient|Pushing JosephKot/AtomCMS-2
+2016-06-01 20:23:42.4058|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:23:42.4058|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:23:42.4058|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'push -u origin master ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:23:44.9216|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at GitClient.cs:720 after blocking 2.5705625s
+2016-06-01 20:23:44.9216|WARN|thread: 1|OldBranchModel|Failed to get remote canonical name.
+GitHub.IO.ProcessException: fatal: unable to access 'https://github.com/JosephKot/AtomCMS-2.git/': Couldn't resolve proxy 'proxyServer'
+2016-06-01 20:23:44.9216|WARN|thread: 1|StandardUserErrors|Showing user error Failed to publish this branch.
+GitHub.IO.ProcessException: fatal: unable to access 'https://github.com/JosephKot/AtomCMS-2.git/': Couldn't resolve proxy 'proxyServer'
+2016-06-01 20:24:02.5611|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at GitClient.cs:201
+2016-06-01 20:24:02.5611|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at GitClient.cs:201 after waiting 8.68E-05s
+2016-06-01 20:24:02.5611|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at RepositoryModel.cs:596
+2016-06-01 20:24:02.5611|INFO|thread:36|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at RepositoryModel.cs:596 after waiting 0.0085765s
+2016-06-01 20:24:02.5901|INFO|thread:36|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at NewPullRequestViewModel.cs:246
+2016-06-01 20:24:02.5901|INFO|thread:36|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at GitClient.cs:290
+2016-06-01 20:24:02.5901|INFO|thread:36|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at RepositoryModel.cs:596 after blocking 0.0213205s
+2016-06-01 20:24:02.5901|INFO|thread:36|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at NewPullRequestViewModel.cs:246 after waiting 0.0018478s
+2016-06-01 20:24:02.5901|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at GitClient.cs:201 after blocking 0.032874s
+2016-06-01 20:24:02.5901|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at GitClient.cs:290 after waiting 0.0017828s
+2016-06-01 20:24:02.6171|INFO|thread: 8|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\.
+2016-06-01 20:24:02.6171|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at NewPullRequestViewModel.cs:246 after blocking 0.0255877s
+2016-06-01 20:24:02.6332|INFO|thread:18|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:24:02.6332|INFO|thread:18|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:24:02.6332|INFO|thread:18|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Joesph\Documents\GitHub\AtomCMS-2\
+2016-06-01 20:24:02.6712|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at BranchesViewModel.cs:356
+2016-06-01 20:24:02.6712|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at BranchesViewModel.cs:356 after waiting 7.86E-05s
+2016-06-01 20:24:02.6712|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at RepositoryViewModel.cs:318
+2016-06-01 20:24:02.6942|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at BranchesViewModel.cs:356 after blocking 0.0222627s
+2016-06-01 20:24:02.6942|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at RepositoryViewModel.cs:318 after waiting 0.0217247s
+2016-06-01 20:24:02.7162|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at RepositoryViewModel.cs:318 after blocking 0.0225171s
+2016-06-01 20:24:02.7863|INFO|thread:17|ConcurrentRepositoryConnection|Took 143ms to git status
+2016-06-01 20:24:02.7863|INFO|thread:17|ConcurrentRepositoryConnection|Took 143ms to git status and parse output
+2016-06-01 20:24:02.7863|INFO|thread:17|NewCommitViewModel|Took 200ms to load files for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:24:02.7863|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at GitClient.cs:290 after blocking 0.1984796s
+2016-06-01 20:24:02.8113|INFO|thread: 1|NewCommitViewModel|Took 19ms to render file list for C:\Users\Joesph\Documents\GitHub\AtomCMS-2
+2016-06-01 20:24:02.8113|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at RepositoryViewModel.cs:318
+2016-06-01 20:24:02.8113|INFO|thread:36|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at RepositoryViewModel.cs:318 after waiting 7.99E-05s
+2016-06-01 20:24:02.8303|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at RepositoryViewModel.cs:318 after blocking 0.0177154s
+2016-06-01 20:29:20.3684|INFO|thread: 7|CrossProcessMessageBus|Another instance started and signaled us.
+2016-06-01 20:29:20.3734|INFO|thread: 7|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/JosephKot/websites-php-AtomCMS'
+2016-06-01 20:29:20.3734|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/JosephKot/websites-php-AtomCMS'
+2016-06-01 20:30:48.8976|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/JosephKot/websites-php-AtomCMS.git
+2016-06-01 20:30:48.9246|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2016-06-01 20:30:48.9466|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/JosephKot/websites-php-AtomCMS.git' to 'websites-php-AtomCMS' in directory 'C:\Users\Joesph\Documents
+2016-06-01 20:30:48.9746|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7020:/tmp/ssh-Zjk7mVuhMhI7/agent.6152
+2016-06-01 20:30:48.9746|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\Joesph\AppData\Local\Apps\2.0\LQ99DOQQ.CMW\VRRGM1XK.YW9\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\Joesph\AppData\Local\GitHub\lfs-amd64_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-01 20:30:48.9746|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Joesph\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/JosephKot/websites-php-AtomCMS.git" "websites-php-AtomCMS" ', Working Directory: C:\Users\Joesph\Documents
+2016-06-01 20:30:49.1957|INFO|thread:15|DashboardViewModel|Selected repository 'JosephKot/websites-php-AtomCMS'
+2016-06-01 20:30:49.6030|INFO|thread:15|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location C:\Users\Joesph\Documents\websites-php-AtomCMS
+2016-06-01 20:30:50.1434|INFO|thread:41|BackgroundFetcher|Got a refresh period for JosephKot/websites-php-AtomCMS of 300 seconds
+2016-06-01 20:30:50.1434|INFO|thread:41|BackgroundFetcher|Added a delay for JosephKot/websites-php-AtomCMS of 4924 milliseconds
+2016-06-01 20:30:51.6855|ERROR|thread:20|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2016-06-01 20:30:51.6855|INFO|thread:18|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
