@@ -1,5 +1,7 @@
 New stuff
 
+More new stuff
+
 
 2016-06-01 20:30:51.7085|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
 GitHub.IO.ProcessException: 20:30:49.090708 git.c:351               trace: built-in: git 'clone' '--progress' '--recursive' '--' 'https://github.com/JosephKot/websites-php-AtomCMS.git' 'websites-php-AtomCMS'
